@@ -1,11 +1,10 @@
-# Data Analysis & Machine Learning Project
+# Data Analysis & Machine Learning Template
 
-This project focuses on cleaning, exploring, and modeling a dataset to extract insights and build predictive models.
-![Data Analysis](https://via.placeholder.com/350x150)
+This project focuses on giving a template for cleaning, exploring, and modeling a dataset to extract insights and build predictive models.
 
 ## Table of Contents
 
-- [Data Analysis \& Machine Learning Project](#data-analysis--machine-learning-project)
+- [Data Analysis \& Machine Learning Template](#data-analysis--machine-learning-template)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
